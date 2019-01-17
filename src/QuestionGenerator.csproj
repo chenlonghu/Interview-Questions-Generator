@@ -85,7 +85,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="ZetPDF, Version=1.32.2608.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>lib\ZetPDF.dll</HintPath>
+      <HintPath>..\lib\ZetPDF.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
